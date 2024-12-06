@@ -1,0 +1,437 @@
+header {
+  display: flex;
+  justify-content: center;
+}
+
+#mh{
+  height:1000px;
+  width: 1300px;
+}
+
+body{
+  background-image: url(https://img3.wallspic.com/crops/7/3/8/0/7/170837/170837-new_year-christmas-christmas_tree-2020-2021-1920x1080.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+ background-size: 100%;
+}
+
+div{
+  box-shadow: 20px 20px 20px 10px rgba(0, 0, 0, 0.821);
+}
+
+.t2{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr ;
+  font-size: 220px;
+}
+
+
+.t1{
+  display: grid;
+  border:6px solid red;
+  border-color: rgb(56, 145, 223);
+  width: 500px;
+  height: 500px;
+  margin-top: 150px;
+  margin-left: 100px;
+  background-image: url(qww.jpg);
+  background-size: 700px;
+  border-radius: 45px;
+  color: rgb(56, 145, 223);
+  transition: 1s;
+}
+
+
+#f{
+  width: 2000px;
+  height: 1200px;
+}
+
+#down{
+  display: flex;
+}
+
+.qq{
+  color: rgb(100, 22, 22);
+  width:2000px;
+  height:1000px;
+  margin-top: 100px;
+  margin-left:200px;
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.t1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.t1 + :hover{
+  color: rgba(137, 43, 226, 0);
+}
+
+
+#m1{position: absolute;
+  width:511px;
+  height:510px;
+  opacity: 0;
+  transition: 1s;
+  border-radius:45px;
+}
+
+#m1:hover{
+  opacity: 1;
+}
+
+
+#m2{position: absolute;
+  width:511px;
+  height:510px;
+  opacity: 0;
+  transition: 1s;
+  border-radius:45px;
+}
+
+#m2:hover{
+  opacity: 1;
+}
+
+#m3{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:511px;
+  height:510px;
+  border-radius: 45px;
+  
+}
+
+#m3:hover{
+  opacity: 1;
+}
+
+
+#m4{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:511px;
+  height:510px;
+  border-radius: 45px;
+  
+}
+
+#m4:hover{
+  opacity: 1;
+}
+
+
+#m5{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:511px;
+  height:510px;
+  border-radius: 45px;
+  
+}
+
+#m5:hover{
+  opacity: 1;
+}
+
+
+#m6{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:511px;
+  height:510px;
+  border-radius: 45px;
+  
+}
+
+#m6:hover{
+  opacity: 1;
+}
+
+#m7{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:511px;
+  height:510px;
+  border-radius: 45px;
+  
+}
+
+#m7:hover{
+  opacity: 1;
+}
+
+#m8{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:511px;
+  height:510px;
+  border-radius: 45px;
+  
+}
+
+#m8:hover{
+  opacity: 1;
+}
+
+#m9{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:411px;
+  height:510px;
+  border-radius: 45px;
+  
+}
+
+#m9:hover{
+  opacity: 1;
+}
+
+
+#m10{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:511px;
+  height:510px;
+  border-radius: 45px;
+  
+}
+
+#m10:hover{
+  opacity: 1;
+}
+
+
+
+#m11{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:511px;
+  height:510px;
+  border-radius: 45px;
+  
+}
+
+#m11:hover{
+  opacity: 1;
+}
+
+
+
+
+#m12{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:411px;
+  height:410px;
+  border-radius: 45px;
+  
+}
+
+#m12:hover{
+  opacity: 1;
+}
+
+
+
+#m13{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:511px;
+  height:510px;
+  border-radius: 45px;
+  
+}
+
+#m13:hover{
+  opacity: 1;
+}
+
+
+
+
+
+#m14{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:511px;
+  height:510px;
+  border-radius: 45px;
+  
+}
+
+#m14:hover{
+  opacity: 1;
+}
+
+
+
+
+#m15{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:511px;
+  height:510px;
+  border-radius: 45px;
+  
+}
+
+#m15:hover{
+  opacity: 1;
+}
+
+
+
+
+
+#m16{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:511px;
+  height:510px;
+  border-radius: 45px;
+  
+}
+
+#m16:hover{
+  opacity: 1;
+}
+
+
+
+
+
+
+#m17{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:511px;
+  height:510px;
+  border-radius: 45px;
+  
+}
+
+#m17:hover{
+  opacity: 1;
+}
+
+
+
+
+
+
+#m18{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:511px;
+  height:510px;
+  border-radius: 45px;
+  
+}
+
+#m18:hover{
+  opacity: 1;
+}
+
+
+
+#m19{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:511px;
+  height:500px;
+  border-radius: 45px;
+  
+}
+
+#m19:hover{
+  opacity: 1;
+}
+
+
+
+
+#m20{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:511px;
+  height:510px;
+  border-radius: 45px;
+  
+}
+
+#m20:hover{
+  opacity: 1;
+}
+
+
+
+#m21{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:511px;
+  height:490px;
+  border-radius: 45px;
+  
+}
+
+#m21:hover{
+  opacity: 1;
+}
+
+
+
+
+
+#m22{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:511px;
+  height:510px;
+  border-radius: 45px;
+  
+}
+
+#m22:hover{
+  opacity: 1;
+}
+
+
+
+
+#m23{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:511px;
+  height:510px;
+  border-radius: 45px;
+  
+}
+
+#m23:hover{
+  opacity: 1;
+}
+
+
+#m24{position: absolute;
+  opacity: 0;
+  transition: 1s;
+  width:511px;
+  height:650px;
+  border-radius: 45px;
+  
+}
+
+#m24:hover{
+  opacity: 1;
+}
+
